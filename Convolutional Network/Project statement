@@ -1,0 +1,6 @@
+Autonomously develop different implementations of supervised learning deep neural networks to solve different use cases.
+supervised learning to solve different use cases. The practice consists of
+the construction of a DNN model for classification using convolution networks.
+build
+
+Image classifier using the CIFAR-10 dataset.
