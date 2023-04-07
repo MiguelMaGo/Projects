@@ -1,0 +1,6 @@
+male,book1,book2,book3,book4,book5,isMarried,isNoble,numDeadRelations,isPopular
+1,0,0,1,1,0,0,0,5,1
+0,1,1,1,1,1,1,1,15,1
+1,0,0,1,1,1,0,1,0,1
+1,1,1,1,1,1,0,1,0,0
+1,0,0,0,0,0,0,0,5,0

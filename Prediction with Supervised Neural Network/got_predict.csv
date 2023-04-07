@@ -1,0 +1,6 @@
+S.No,actual,pred,alive,plod,name,title,male,culture,dateOfBirth,DateoFdeath,mother,father,heir,house,spouse,book1,book2,book3,book4,book5,isAliveMother,isAliveFather,isAliveHeir,isAliveSpouse,isMarried,isNoble,age,numDeadRelations,boolDeadRelations,isPopular,popularity,isAlive
+6,1,0,0.021,0.979,Tommen Baratheon,,1,,,,Cersei Lannister,Robert Baratheon,Myrcella Baratheon,,,0,0,0,0,0,1,1,1,,0,0,,5,1,1,1,1
+1678,1,0,0.047,0.953,Daenerys Targaryen,Andals,0,Valyrian,284,,,,,House Targaryen,Drogo,1,1,1,1,1,,,,0,1,1,21,15,1,1,1,1
+1945,1,1,0.637,0.363,Coldhands,,1,,,,,,,Three-eyed crow,,0,0,1,1,1,,,,,0,0,,0,0,0,0.130434782608695,1
+1589,1,1,0.634,0.366,Othell Yarwyck,First Builder,1,,,,,,,House Yarwyck,,1,1,1,1,1,,,,,0,1,,0,0,0,0.0635451505016722,1
+114,1,1,0.759,0.241,Roland Crakehall (Kingsguard),Ser,1,,,,,,,House Crakehall,,0,0,0,0,0,,,,,0,1,,0,0,0,0.020066889632107,1
